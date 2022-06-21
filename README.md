@@ -1,6 +1,6 @@
 - 👋 OLÁ, eu sou a professora *Ana Flavia*
 - 👀 Eu estou interessada em aprender **programação**.
-- 🌱 Atualmente estou <estudando> pensamento computacional
+- 🌱 Atualmente estou estudando pensamento computacional
 
 
 <!---
